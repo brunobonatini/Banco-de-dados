@@ -1,7 +1,7 @@
 # Repostório dedicado a linguagem SQL
 
 Este repositório tem como objetivo mostrar minhas habilidades em linguagem SQL,
-através de conceitos e práticas em projetos, respondendo perguntas de negócio a fim de gerar insights relevantes.
+através de conceitos e práticas em projetos.
 
 Habilidades:
 
